@@ -4,7 +4,7 @@ Tapping on a link will take you to relevant materials.
 
 - [ ] [`iOS Developer`](Resources/iOS_Developer/RESOURCES.md)
     - [ ] [`Practical knowledge`](Resources/iOS_Developer/Practical_knowledge/RESOURCES.md)
-        - [ ] [Getting started](Resources/iOS_Developer/Practical_knowledge/Getting_started/RESOURCES.md)
+        - [x] [Getting started](Resources/iOS_Developer/Practical_knowledge/Getting_started/RESOURCES.md)
             - [ ] [First pet project ideas](Resources/iOS_Developer/Practical_knowledge/Getting_started/First_pet_project_ideas/RESOURCES.md)
         - [ ] [`Languages`](Resources/iOS_Developer/Practical_knowledge/Languages/RESOURCES.md)
             - [ ] [`Objective-C`](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/RESOURCES.md)
@@ -17,7 +17,7 @@ Tapping on a link will take you to relevant materials.
                     - [ ] [Method messaging](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Runtime/Method_messaging/RESOURCES.md)
                     - [ ] [NSZombies and KVO implementation](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Runtime/NSZombies_and_KVO_implementation/RESOURCES.md)
                     - [ ] [Swizzling](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Runtime/Swizzling/RESOURCES.md)
-            - [ ] [`Swift`](Resources/iOS_Developer/Practical_knowledge/Languages/Swift/RESOURCES.md)
+            - [x] [`Swift`](Resources/iOS_Developer/Practical_knowledge/Languages/Swift/RESOURCES.md)
                 - [ ] [Closures](Resources/iOS_Developer/Practical_knowledge/Languages/Swift/Closures/RESOURCES.md)
                 - [ ] [`Initializers`](Resources/iOS_Developer/Practical_knowledge/Languages/Swift/Initializers/RESOURCES.md)
                 - [ ] [Generics](Resources/iOS_Developer/Practical_knowledge/Languages/Swift/Generics/RESOURCES.md)
